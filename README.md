@@ -12,6 +12,8 @@ Unfortunately, your rocket ship only responds to the following text commands:
   - pew : fire your weapon
   
 Use your rocket ship to defend your home! Or don't. Whatever.
+
+![Screenshot](https://i.stack.imgur.com/zFvJ6.png)
   
 #Build Instructions
 Open the solution in VS2013 or newer, build.
